@@ -24,7 +24,7 @@ Maintainer: MiRO
 Depends: firmware (>=13.0), mobilesubstrate
 Conflicts: com.miro.uyou
 Filename: deb/com.miro.uyou_1.0.4_iphoneos-arm.deb
-Size: 866.27
+Size: 866268
 MD5sum: d6b97e07e2166fdd11fcb8c3aafa30df
 SHA1: ecef6b7b272f89af8cbc661efe26d07f5cf63d94
 SHA256: b9a703c89b4b53a96e16e284a0dc6b908a28dc3f4420c930e78816afbf27bf2f
