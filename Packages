@@ -1,4 +1,19 @@
 Package: com.cokepokes.appstoreplusplus11
+Version: 0.9.5
+Architecture: iphoneos-arm
+Maintainer: x7mii	
+Depends:  firmware (>= 11.0), mobilesubstrate 	
+Conflicts: com.unlimapps.uaupdatetools	
+Filename: debs/com.cokepokes.appstoreplusplus_0.9.5_iphoneos-arm.deb	
+Size: 1670732	
+MD5sum: e6e914ec0c7e9938241241a96d5c4821	
+SHA1: 056678da97b18a9d880a332c90dcf12c5c0ef674	
+SHA256: 3742beed0cab8114ac1e7c4d5c81fa30c467edd29df710204f9e3d8923b059e2	
+Section: Tweaks	Section: Tweaks
+Depiction: https://x7mii15.github.io/test	Depiction: https://repo.packix.com/package/com.ioscreatix.littlex/
+Name: appstore++
+
+Package: com.cokepokes.appstoreplusplus11
 Version: 0.9.8-9
 Architecture: iphoneos-arm
 Maintainer: CokePokes
@@ -15,38 +30,3 @@ Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.3
 Author: CokePokes
 Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
 Name: AppStore++
-
-  
-Package: com.miro.uyou
-Version: 1.0.4
-Architecture: iphoneos-arm
-Maintainer: MiRO
-Depends: firmware (>=13.0), mobilesubstrate
-Conflicts: com.miro.uyou
-Filename: deb/com.miro.uyou_1.0.4_iphoneos-arm.deb
-Size: 866268
-MD5sum: 5648e1bacd462e79a2f879b261e62dfb
-SHA1: c36dba7ce922bed8946b7047b05ec6222dfff612
-SHA256: ee29c24f26048e186f7e5c3340c372f4e29f239663f9241b1b3a6a959dcb997c
-Section: Tweaks
-Priority: optional
-Description: Download Manager for YouTube.
-Author: MiRO
-Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyou
-Name: uYou
-
-Package: com.xelahot.xelahotagario
-Name: Xelahot - Agar.io
-Architecture: iphoneos-arm
-Description: Xelahot mod menu for Agar.io for free!
-Maintainer: xelahot
-Author: xelahot
-Section: Tweaks
-Conflicts: com.xelahot.libxelahot
-Version: 1.2
-Installed-Size: 392
-Filename: /debs/com.xelahot.xelahotagario_1.2_iphoneos-arm.deb
-Size: 69108
-MD5sum: 3572ca2e1b63a73b83467796bec6ddfd
-SHA1: 3572ca2e1b63a73b83467796bec6ddfd
-SHA256: 7C402602F6AD3CE2113E64CCCDCCA1BA393379AD4EA242EF073D8FA9636ABEF2
